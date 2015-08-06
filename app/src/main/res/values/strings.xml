@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tulp</string>
+
+    <string name="title_section1">Profile</string>
+    <string name="title_section2">Friends</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Add Friend</string>
+    <string name="action_add">Add Friend</string>
+
+    <string name="title_activity_new_acc">NewAcc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nuevo_nombre">Nombre</string>
+    <string name="nuevo_mail">Mail</string>
+
+    <string name="crear">Crear</string>
+</resources>
